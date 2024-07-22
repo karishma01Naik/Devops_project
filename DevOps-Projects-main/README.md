@@ -14,13 +14,13 @@
     - Coming Soon
 
 # Kubernetes
-    - Coming Soon
+    - 
 
 # Terraform
-    - https://github.com/namdev-rathod/DevOps-Projects/tree/main/Terraform
+    - https://github.com/karishma01Naik/DevOps-Projects/tree/main/Terraform
 
 # Monitoring
-    - Coming Soon
+    - 
 
 # CICD Projects
 
